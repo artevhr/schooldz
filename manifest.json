@@ -1,0 +1,28 @@
+{
+  "name": "SchoolBook — Школьный Дневник",
+  "short_name": "SchoolBook",
+  "description": "Расписание уроков, замены, домашка — всё в одном месте",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f0f14",
+  "theme_color": "#0f0f14",
+  "orientation": "portrait-primary",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='100' fill='%230f0f14'/%3E%3Ctext y='.85em' font-size='360' x='50%25' dominant-baseline='middle' text-anchor='middle'%3E%F0%9F%93%9A%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='100' fill='%230f0f14'/%3E%3Ctext y='.85em' font-size='360' x='50%25' dominant-baseline='middle' text-anchor='middle'%3E%F0%9F%93%9A%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "screenshots": []
+}
